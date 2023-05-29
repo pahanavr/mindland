@@ -10,7 +10,7 @@ MindLand is an open-source project to discover, create and share creative minds.
 
 * TypeScript
 * Next.js
-* CSS Modules
+* Tailwind CSS
 * MongoDB
 * API
 
